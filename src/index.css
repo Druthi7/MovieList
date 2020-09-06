@@ -1,0 +1,21 @@
+html {
+}
+
+body {
+  margin: 0;
+  padding: 0 0 0 0;
+  font-family: sans-serif;
+  background: url("./mov.jpg") center/cover no-repeat;
+  background-color: rgb(0, 0, 0, 1);
+  position: relative;
+}
+
+.marginBottom {
+  margin-top: 0%;
+  margin-bottom: 3%;
+  background-color: black !important;
+}
+
+.clickable {
+  cursor: pointer;
+}
